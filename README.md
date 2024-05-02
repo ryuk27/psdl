@@ -1,18 +1,33 @@
-All Programming Skill Development Lab solutions from SE IT of Savitribai Phule Pune University.
+# Programming Skill Development Lab Solutions
 
-**For Group A - 1, 2, 3 & 4 :**
-Code and Explanation is mandatory.
+This repository contains solutions for the Programming Skill Development Lab from SE IT of Savitribai Phule Pune University.
 
-**For Group A - 5 :**
-Code, explanation and sorting solution to be written.
+## Group A - Problems 1, 2, 3, & 4:
 
-**For Group B & C :**
-i. Build & Build&CLean to be done.
-ii. Copy the path given at bottom.
-iii. Ctl C -> Win R -> Ctrl V -> Enter.
-iv. Copy the HEX file.
-v. Paste in the desktop, then open PICLOADER.
-vi. Inside it, Settings -> Select USB to Serial COM 3 -> Done -> Click Break/Reset Mode.
-vii. After that click Reset on the hardware too.
-viii. Click Bootloader Mode -> File -> Open -> Select HEX file from desktop -> Write Mode.
-ix. For **LCD : Keep only LCD on, LED : Can keep all on.**
+For each problem in this group, code and explanation are mandatory.
+
+## Group A - Problem 5:
+
+For problem 5 in this group, code, explanation, and sorting solution are required.
+
+## Group B & C:
+
+### Instructions:
+
+1. Perform Build & Build&Clean.
+2. Copy the path provided at the bottom.
+3. Press Ctrl+C.
+4. Press Win+R, then Ctrl+V, and hit Enter.
+5. Copy the HEX file.
+6. Paste it on the desktop.
+7. Open PICLOADER.
+8. Go to Settings.
+9. Select USB to Serial COM 3.
+10. Click Done.
+11. Click Break/Reset Mode.
+12. Reset the hardware.
+13. Click Bootloader Mode.
+14. Open the file.
+15. Select the HEX file from the desktop.
+16. Choose Write Mode.
+17. For LCD, keep only LCD on. For LED, all can be kept on.
