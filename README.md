@@ -27,7 +27,7 @@ For problem 5 in this group, code, explanation, and sorting solution are require
 11. Click Break/Reset Mode.
 12. Reset the hardware.
 13. Click Bootloader Mode.
-14. Open the file.
+14. Click File -> Open.
 15. Select the HEX file from the desktop.
 16. Choose Write Mode.
-17. For LCD, keep only LCD on. For LED, all can be kept on.
+17. For **LCD, keep only LCD on. For LED, all can be kept on**.
